@@ -1,0 +1,40 @@
+#receipt{
+  display: none;
+}
+
+#header{
+  background-image: url(http://media.istockphoto.com/photos/tshirt-template-picture-id480778974?k=6&m=480778974&s=170667a&w=0&h=U4D312wf8BvSFnS7xAQB6dpUK1LNeEdPF-QWdxbk260=);
+}
+
+#blueTshirt{
+  width:150%;
+}
+#ccgroup{
+  width:100%;
+}
+#expiregroup{
+  width:50%;;
+}
+
+.widthchage{
+  width:50%;
+}
+#sizegroup{
+  width:auto;
+}
+#citygroup, #stategroup{
+  float:left;
+}
+
+#citygroup, #stategroup{
+  width:25%;
+  margin-right: 2%;
+}
+
+#zipcode{
+  width: auto;
+}
+
+.name, .streetaddress, .city, .state, .zipcode{
+  font-size:80%;
+}
